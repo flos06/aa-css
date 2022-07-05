@@ -1,4 +1,44 @@
 /* Your code here */
+#page-title {
+    font-weight: bold;
+
+}
+
+a:any-link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+pre > a {
+    color: black;
+}
+
+#Page_1 {
+    position: absolute;
+    right: 1%;
+    font-size: small;
+}
+
+
+
+p {
+    text-align: justify;
+    margin-top: .75em;
+    margin-bottom: .75em;
+}
+
+pre {
+ margin-bottom: 100px;
+ margin-top: 100px;
+ margin: auto;
+ width: fit-content;
+ text-align: center;
+
+}
 
 /* ===== DO NOT EDIT BELOW THIS COMMENT ===== */
 
