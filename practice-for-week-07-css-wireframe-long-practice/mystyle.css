@@ -1,0 +1,18 @@
+.nav__lower {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.upper__left {
+    height: 40px;
+    width:50px;
+}
+.nav__upper {
+    display: flex;
+    justify-content: space-between;
+}
+.upper__right > * {
+    color: green;
+}
